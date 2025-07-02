@@ -133,5 +133,5 @@ iframe {
 
 .footer p {
  font-family: 'Irish Grover', cursive;
-  font-size: clamp(1.5rem, 4vw, 3rem);
+  font-size: clamp(1.5rem, 4vw, 1.5rem);
 }
